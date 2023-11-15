@@ -1,19 +1,30 @@
-[![Twitter Badge](https://img.shields.io/badge/-@0xpranjal-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/0xpranjal)](https://twitter.com/0xpranjal) 
-[![Linkedin Badge](https://img.shields.io/badge/-Eslam Hemida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjal-bhardwaj-a85263188/)](https://www.linkedin.com/in/pranjal-bhardwaj-a85263188/)
----
-[![Gmail Badge](https://img.shields.io/badge/-pranjal@algorand.org-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranjalbhardwaj@ieee.org)](mailto:pranjal@algorand.org)
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+</h1>
 
+## Hey! 👋
+I'm Eslam Hemida, a 23 years old web developer from Egypt.
 
-# Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-I'm a Front-end Engineer. 
+- 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bhard27.Bhard27)
+- 👨‍💻 Working at [Community Labs](https://communitylabs.com) ([We raised $30M!](https://www.bloomberg.com/news/articles/2022-09-08/teenage-founder-raises-30-million-for-crypto-startup-community-labs?utm_medium=email&utm_source=newsletter&utm_term=220908&utm_campaign=author_22684653#xj4y7vzkg&leadSource=uverify%20wall))
 
-### Summary👋
-- 🔭 I’m currently working on Deep Learning research projects.
-- 👯 I’m looking to collaborate on research papers related to GANs, Swarm intelligence, Biomedical Imaging, Federated learning, and Adversarial ML.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pranjal-bhardwaj-a85263188/) , [Email](mailto:pranjalbhardwaj@ieee.org)
+- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
 
+- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
 
++ a lot more ;)
+
+## Skills
+- 👨‍💻 TypeScript, JavaScript, PHP, C#
+- ⚙️ React, Svelte, Vue
+- 👁️ SASS, CSS, Stylus
+- 💽 MySQL, SQL, Mongo
++ a lot more :D
+
+## Contact
+- [marton.lederer.hu](https://marton.lederer.hu)
+- [@martonlederer](https://twitter.com/martonlederer) on Twitter
+- [@martonlederer](./) on Discord
 
 
