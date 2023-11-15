@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="eslam hemida" />
 </h1>
 
 ## Hey! 👋
-I'm Eslam Hemida, a 23 years old web developer from Egypt.
+I'm Eslam Hemida, a 23-year-old web developer from Egypt.
 
 - 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet
 
