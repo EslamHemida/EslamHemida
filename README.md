@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://eslam hemida/eslam hemida/eslam hemida/eslam hemida/name.svg" alt="eslam hemida" />
-</h1>
+
 
 ## Hey! 👋
 I'm Eslam Hemida, a 23-year-old web developer from Egypt.
