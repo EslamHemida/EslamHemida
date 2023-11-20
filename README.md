@@ -1,28 +1,24 @@
 
-
-## Hey! 👋
-I'm Eslam Hemida, a 23-year-old web developer from Egypt.
  
-- 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet
+<h1 align="center">Hi 👋, I'm Eslam Hemida</h1>
+<h3 align="center"> software engineer </h3>
 
-- 👨‍💻 Working at [Community Labs](https://communitylabs.com) ([We raised $30M!](https://www.bloomberg.com/news/articles/2022-09-08/teenage-founder-raises-30-million-for-crypto-startup-community-labs?utm_medium=email&utm_source=newsletter&utm_term=220908&utm_campaign=author_22684653#xj4y7vzkg&leadSource=uverify%20wall))
+## 💬 Ask me about
+- Backend web development (Python, c++)
+- Frontend web development 
 
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
 
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
+## 📅 Hobbies
+- Solve programming problems 
+- Watch anime and TV shows
+- Read some manga
+- Play videogames
+- etc...
 
-+ a lot more ;)
 
-## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP, C#
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
-+ a lot more :D
 
-## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](./) on Discord
+## 📚 Learning
+- almdrasa courses about frontend development Roadmap
+
 
 
